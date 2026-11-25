@@ -148,7 +148,8 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
-![Uploading WhatsApp Image 2026-11-25 at 12.10.09 PM.jpeg…]()
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-25 at 12 10 09 PM" src="https://github.com/user-attachments/assets/850a94d0-aec0-40e9-8058-abf48361538a" />
+
 
 
 
